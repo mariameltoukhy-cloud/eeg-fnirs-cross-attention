@@ -82,6 +82,4 @@ Results are appended per fold and skipped on re-run, so interrupted runs resume.
 
 Shin, J. et al. (2017). *Open access dataset for EEG+NIRS single-trial classification.* IEEE Trans. Neural Syst. Rehabil. Eng. The dataset is not redistributed here; check its terms on the TU Berlin page.
 
-## Licence
 
-Add a licence of your choice (e.g. MIT) before publishing.
